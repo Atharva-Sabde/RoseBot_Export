@@ -1,0 +1,209 @@
+{
+  "bot_id": 609517172,
+  "data": {
+    "notes": {
+      "notes": [
+        {
+          "data_id": "AgACAgUAAxkBCI_NgWAmzeB8wwT3OGLG0JNzuaaOGHMdAAKjqzEb5Wo5VQRNOzfrm_tjZ1kAAW90AAMBAAMCAAN5AAM1UQACHgQ",
+          "name": "1650vs1650ti",
+          "text": "",
+          "type": 2
+        },
+        {
+          "data_id": "",
+          "name": "3200mhz-ram",
+          "text": "(1)\nKINGSTON : https://www.amazon.in/Kingston-3200Mhz-Memory-Laptop-KVR32S22S6/dp/B08HN9ZQG1/ref=sr_1_5?dchild=1\u0026keywords=3200mhz+ram\u0026qid=1609889561\u0026sr=8-5\n\n(2)\nADATA: https://www.amazon.in/modules-notebooks-3200MHZ-Laptop-AD4S320038G22-RGN/dp/B086XF2SFR/ref=sr_1_7?dchild=1\u0026keywords=3200mhz+ram\u0026qid=1609889561\u0026sr=8-7",
+          "type": 0
+        },
+        {
+          "data_id": "",
+          "name": "5800vs4800",
+          "text": "https://t.me/acer_nitro5_2020_discussion/10632",
+          "type": 0
+        },
+        {
+          "data_id": "",
+          "name": "acer_manuals",
+          "text": "https://www.acer.com/ac/en/IN/content/support-product/8365?b=1\u0026pn=NH.Q9MSI.004",
+          "type": 0
+        },
+        {
+          "data_id": "",
+          "name": "acer_whatsapp_support",
+          "text": "acer whatsapp support : wa.me/916366800400",
+          "type": 0
+        },
+        {
+          "data_id": "BAACAgUAAxkBBwkd5l_4SazjDo8V6reU2TkdJ-ANY6yfAAJoAgACd7a5V9x5HDbrqjudHgQ",
+          "name": "back-panel-opening",
+          "text": "Back panel opening",
+          "type": 3
+        },
+        {
+          "data_id": "AgACAgUAAxkBBtmm1F_v3M3NQjq1VHeZ4g9-dW89AtRuAAJzqjEbO5qBV2UM-wQP189vujghbXQAAwEAAwIAA3kAA6I6AgABHgQ",
+          "name": "battery-report",
+          "text": "To get the full battery report of your device: \n1.go to run and open cmd.\n2.type \"powercfg/batteryreport\" and press enter.\n3.check the user folder for the .html file and open in browser\n\nDone :)",
+          "type": 2
+        },
+        {
+          "data_id": "",
+          "name": "battery-wear",
+          "text": "💡Battery wear is common in all laptops , and it is a scientific phenomenon of a battery lifecycle.So if laptop is on 6% wear level, then your battery is capable of only 94% charge (but still OS will show you 100% ) \n\n🔋How to check the battery wear level?\ndirectly use Hwinfo.exe / use windows cmd method (both are in notes)\n\nAlso the software values for wear level can't be fully trusted, That battery wear level is actually software based , so theres no pure hardware level evidence of how much the battery is the battery wear..\n\n\n\n🔋🔌How to avoid/decrease battery wear?\nPlug in charger everytime you use Laptop., Whenever possible. \nThat will not use the battery cycles , and hence the battery life is conserved.\n\n💰Don't care about always pluggin in  , it wont cost you electricity bill, as the  laptop takes power from adapter as much as it needs....nothing more.",
+          "type": 0
+        },
+        {
+          "data_id": "",
+          "name": "carecenter.exe",
+          "text": "(may get updated when you download this in future , so better if you get it from acer website).",
+          "type": 0
+        },
+        {
+          "data_id": "BQACAgUAAxkBBxiWKV_6mqDDEh6fC62xjNrzn0I2_F2LAAL_AQAC5rnoVWcrPpnZ4ZxtHgQ",
+          "name": "cinebench.exe",
+          "text": "Cinebench_R23",
+          "type": 8
+        },
+        {
+          "data_id": "AgACAgUAAxkBByeWiV_73N-ZnxGt7Sy70P9s17dk7k2RAAI1qzEbIqjhVzKe9cTalOQEYkyub3QAAwEAAwIAA3kAA834AAIeBA",
+          "name": "cinebenchr23",
+          "text": "Ryzen7 4800H",
+          "type": 2
+        },
+        {
+          "data_id": "AgACAgUAAxkBBtBQXV_twJxKkknaBozly7UmrxuAhUF2AAJYqzEbO3iZVBsr54BQZUiRCsjLbHQAAwEAAwIAA3kAA_-XAgABHgQ",
+          "name": "color-calibration",
+          "text": "These are the settings for AMD radeon , it worked fine for my display , you can change according to your choice. \n.\nAlso you can refer the video : https://youtu.be/1lpWMpOX9_w\nhere , i have explained , how to do it. ;)",
+          "type": 2
+        },
+        {
+          "data_id": "AgACAgUAAxkBCQTzgmAz3R84svHLGqOue8T5tkQxMIVUAAKtrDEbdIWhVerqFCQBbh6qWRRbcXQAAwEAAwIAA3kAAxCTAAIeBA",
+          "name": "deadpixels",
+          "text": "Dead pixels are normal in IPS displays. Also they are not visible with normal eyes with normal usage. [ if you bought laptop from amazon/flipkart , you can get replacement.\n\nAcer has its Dead-Pixel replacement policy as mentioned in this image:",
+          "type": 2
+        },
+        {
+          "data_id": "BQACAgUAAx0CVV5SOgACG-5f8MgHjSdkydmRUu91aFqBJ3ZXmwAC7gEAAi9OiFeOJ4dNQmmeWR4E",
+          "name": "disk-mark",
+          "text": "",
+          "type": 8
+        },
+        {
+          "data_id": "",
+          "name": "diskmark.exe",
+          "text": "choose the x64 version(64bit)",
+          "type": 0
+        },
+        {
+          "data_id": "",
+          "name": "drivers",
+          "text": "https://www.acer.com/ac/en/IN/content/support-product/8365?b=1\u0026pn=NH.Q9MSI.004",
+          "type": 0
+        },
+        {
+          "data_id": "AgACAgUAAxkBBxibZ1_6m2j3h54OmX7Jdrg-c3C8AT24AAK4qjEbor6pVORyf8HTS3UtEEHKbHQAAwEAAwIAA3gAA62tAgABHgQ",
+          "name": "geekbench5",
+          "text": "These are results for  ryzen7 4800h + Nvidia 1650",
+          "type": 2
+        },
+        {
+          "data_id": "BQACAgUAAxkBBxioi1_6nWquUORzs4pEF7IvQ7hKG0-pAAJmAQACKEGZVEP4suinPawgHgQ",
+          "name": "geekbench.exe",
+          "text": "geekbench setup",
+          "type": 8
+        },
+        {
+          "data_id": "",
+          "name": "hinge",
+          "text": "💻 For a better hinge life, Always open laptop lid from center , nowadays as screens are more bezel lesss , they are more delicate and fit into the thin frame ,so they should be handled with care as well ,\n.\n\n\n🖥 Also if you always open lid the wrong way , it may result in increased screen bleeding over time.\n.\n\n💻 Try not to open the hinge frequently.(One finger lift hinges get more loose after prolonged opening/closing) if you want your laptop to last longer \n.\n\n\n🧨or if you have a lot of money ,and you can buy a new laptop every year, then you can definitely act your wish! ;)",
+          "type": 0
+        },
+        {
+          "data_id": "BQACAgUAAxkBBxifc1_6nBiGqnPnxTMbU-EMtQN-LAliAAJlAQACKEGZVCqaEBBE0mTBHgQ",
+          "name": "hwinfo.exe",
+          "text": "HWinfo apk",
+          "type": 8
+        },
+        {
+          "data_id": "AgACAgUAAxkBBvdqil_1XquI3dqpNqPfDQplWAEvC01xAALCrDEbc26pV73YwnoE1TIqIHW3b3QAAwEAAwIAA3kAA7fVAAIeBA",
+          "name": "keyboard-protector",
+          "text": "ifyx : (it is the best fit cover so far)\n\nhttps://ifyxstore.com/products/acer-nitro-5-17-3-an517-51-52-2019-2020-gaming-laptop-blk\n\n(also available on amazon but mostly out of stock) \n(Ifyx site provides delivery within 3-6 days all over india)\n\n-\u003e use coupon code for 10% off :  MC10OFF",
+          "type": 2
+        },
+        {
+          "data_id": "",
+          "name": "legion5",
+          "text": "(2020) If you hate rgb and want a non-gamerish laptop ,also have good budget (82+k) , then go for legion 5.",
+          "type": 0
+        },
+        {
+          "data_id": "",
+          "name": "ms-office",
+          "text": "(please turn off windows defender before installation)\n1. Download ms office from here: https://getintopc.com/softwares/office-tools/microsoft-office-2019-professional-plus-updated-apr-2020-download-1274708/ \n\n2. Install like regular office. \n\n3. run #msoffice-activation here ,  and download that file.\n   \nactivation part in next command: /get msoffice-activation",
+          "type": 0
+        },
+        {
+          "data_id": "BQACAgUAAxkBB3KjG2AELmds1xQzzbFTWFx5d7Dfec_PAAIKAgACxIUgVG5H_QdtPYFKHgQ",
+          "name": "msoffice-activation",
+          "text": "4.  Save this file on desktop with .bat extension.\n(make sure that after saving the file  the icon is changed from notepad icon to settings icon, if the icon do not change , copy the code inside it and paste it in another file ,  and try to save it again with .bat extension) ex: xyz.bat\n\n5. NOw right click that file and select  run as administrator .\nif your office version is incompatible , try restarting pc and try again ...",
+          "type": 8
+        },
+        {
+          "data_id": "",
+          "name": "new_laptop",
+          "text": "New Laptop? check important things first!\n\nPERFORMANCE:\ninstall -\u003e check the scores with similar machines.\n1.Cinebench r20 : \n2.Geekbench:\n3.HWinfo:\n\n=======================================================\nHARDWARE: (Hynix  , crucial , WD , toshiba,  seagate and standard disk drives)\n1.check RAM stick and its frequency : \n2.Check SSD , HDD brand and Their R/W speeds:\n\n=======================================================\n\nDISPLAY:  (most probably AU optronics)\n1.Check display model:  \n2.Check screen bleeding (it is normal in IPS displays, just dont let it be beyond limits)\n3. Check Dead Pixels. if found , then replace (amazon/flipkart) , acer will not consider dead pixel , unless they are more than 4-5. (sub pixels)\n\n=======================================================\n\nTHERMALS:\nInstall some games and check if temperature rises suddenly or take a look on nitro/predator sense if available.\n(most probably new laptop has perfect thermals due to new thermal paste)",
+          "type": 0
+        },
+        {
+          "data_id": "",
+          "name": "nitro5",
+          "text": "1. Acer website : https://www.acer.com/ac/en/IN/content/series/nitro5",
+          "type": 0
+        },
+        {
+          "data_id": "",
+          "name": "refresh-rate",
+          "text": "1650 - 1650ti -\u003e high Settings -\u003e        60hz\n\n1660ti - 2060 -\u003e all Settings -\u003e  144/165 hz",
+          "type": 0
+        },
+        {
+          "data_id": "",
+          "name": "ryzen7",
+          "text": "https://www.flipkart.com/acer-nitro-5-ryzen-7-octa-core-4800h-8-gb-1-tb-hdd-256-gb-ssd-windows-10-home-4-graphics-nvidia-geforce-gtx-1650-an515-44-r55a-gaming-laptop/p/itmc69846f4678c7",
+          "type": 0
+        },
+        {
+          "data_id": "",
+          "name": "sabko_sach_bata_do",
+          "text": "TO BE HONEST: WE ALWAYS CHECK VERY MINUTE THINGS AFTER BUYING LAPTOP , LIKE DEAD PIXELS , SCREEN BLEEDING , AND RGB , BUT AFTER 1 OR 2 MONTHS THERE COMES A POINT WHERE WE NEVER NOTICE SUCH THINGS IN EVERYDAY LIFE .. FOR EXAMPLE MY DISPLAY HAD A DEAD PIXEL , BUT NOW I DONT EVEN REMEMBER WHERE IT IS , NEITHER I HAVE TIME TO TURN OFF ALL LIGHTS AND FIND IT WITH FULL BRIGHTNESS. NEITHER SCREEN BLEED IS VISIBLE (thanks to 6sec boot time) , ITS JUST THAT WE PUT SO MUCH EFFORTS ON THINGS WHICH REALLY DONT MATTER IN LONG TERM..........SO TAKE A CHILL PILL , UNLESS ACER GAVE YOU An *INTEL PENTIUM* CHIP INSTEAD OF *RYZEN7 4800H* .......😉",
+          "type": 0
+        },
+        {
+          "data_id": "",
+          "name": "screenbleeding",
+          "text": "Lcd stands for Liquid crystal Display,\n so it's just small thin sheets with gel in them...so when you press , move or bend it, color changes.\n\nAnd that's the property of LCD screens.\n\nThats the main cause of screen bleeding \n.\n.\nScreen bleeding is not a damage.\nIts just the place where screen is too tight with the lid body\n(You wont find bleeding in Oled panels as it has individual pixels rather than liquid film)",
+          "type": 0
+        },
+        {
+          "data_id": "",
+          "name": "slow-restart",
+          "text": "slow-restart slow restart is  not problem specific to nitro5....it is a part of windows and how it handles boot.\nIn windows 10 when we shut down, system does not close all services and totally shut down, but it directly saves raw data in ssd,(just like hibernate) so next time when we boot , it takes only 5-10 seconds. \nBut when you restart , system clears all memory and closes all apps and reloads whole OS and drivers  again freshly , so it takes more time to restart. :), and this is the reason windows asks you to restart  after any update or installation .😃",
+          "type": 0
+        },
+        {
+          "data_id": "BAACAgUAAxkBBtBKkl_tv7zB4ZqjNVOg37VhoopHHZlCAAJ5AQACb2JwV9HsJel1oibKHgQ",
+          "name": "warranty-sticker",
+          "text": "",
+          "type": 3
+        },
+        {
+          "data_id": "AgACAgUAAx0CVV5SOgACG-Vf8JtVnUkcVo3g1vEKcNBg9RnL8gACzKoxGy9OiFciN_uLv5vhxszYp250AAMBAAMCAAN5AAPo_QACHgQ",
+          "name": "windows-activation",
+          "text": "To activate any windows:\n(please turn off windows defender before this)\n1. go to : bit.ly/windowstxt\n2. Copy all code and paste in notepad.\n3. Save the text file on desktop ,with extension \".cmd\" .and make sure the icon changes after saving (as shown in image).\n4. Run the file as administrator.\n\n//Done! ;)",
+          "type": 2
+        }
+      ],
+      "private_notes": false
+    }
+  },
+  "version": 1
+}
